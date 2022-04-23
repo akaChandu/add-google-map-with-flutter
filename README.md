@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Design and Development
-In this we saw how google maps can be used in the flutter app. The location is coded in the json file which shows the google Headquarter as dummy location.
+In this i learnt and implemented how google maps can be used in the flutter app. The location is coded in the json file which shows the google Headquarter as dummy location.
 
 ## Skills and Experience
 [![My Skills](https://skillicons.dev/icons?i=flutter)](https://flutter.dev)

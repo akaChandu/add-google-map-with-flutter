@@ -2,11 +2,11 @@
 
 A new Flutter project.
 
-## Skills and Experience
-[![My Skills](https://skillicons.dev/icons?i=flutter)](https://flutter.dev)
-
 ## Design and Development
 In this we saw how google maps can be used in the flutter app. The location is coded in the json file which shows the google Headquarter as dummy location.
+
+## Skills and Experience
+[![My Skills](https://skillicons.dev/icons?i=flutter)](https://flutter.dev)
 
 ## Example of Workdone
 

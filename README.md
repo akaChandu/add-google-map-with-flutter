@@ -2,6 +2,23 @@
 
 A new Flutter project.
 
+## Skills and Experience
+[![My Skills](https://skillicons.dev/icons?i=flutter)](https://flutter.dev)
+
+## Design and Development
+In this we saw how google maps can be used in the flutter app. The location is coded in the json file which shows the google Headquarter as dummy location.
+
+## Example of Workdone
+
+<div class="row">
+<img src="https://github.com/akaChandu/add-google-map-with-flutter/blob/master/Screenshot_1650725989.png" width="250" >
+<img src="https://github.com/akaChandu/add-google-map-with-flutter/blob/master/Screenshot_1650726002.png" width="250" >
+  </div>
+  <div class="row">
+  <img src="https://github.com/akaChandu/add-google-map-with-flutter/blob/master/Screenshot_1650726027.png" width="250" >
+<img src="https://github.com/akaChandu/add-google-map-with-flutter/blob/master/Screenshot_1650726051.png" width="250" >
+    </div>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
